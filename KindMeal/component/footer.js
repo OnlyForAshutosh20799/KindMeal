@@ -66,6 +66,6 @@ function bigfooter(){
       <p><a href="">Medical Fund</a></p>
     </div>
   </div>
-  <p style="text-align: center;margin-top: 15px;font-size: 10px; color: #ffffff;">Copyright © KindMeal.my, 2014 - 2022. All rights reserved.</p>
+  <p style="text-align: center;margin-top: 15px;font-size: 10px; color: #ffffff;">Copyright © KindMeal.my, 2014 - 2023. All rights reserved.</p>
   <p style="text-align: center;font-size: 10px; color: #ffffff;padding-bottom: 13px;">This website promotes compassionate, meat-free dining experience. Some food may contain eggs, dairy products or alcohol, please view individual listings for details.</p>`
 }
