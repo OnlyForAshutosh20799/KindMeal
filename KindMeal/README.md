@@ -80,10 +80,6 @@ On the Help Section, users get multiple options for help just like advertising h
 
 Technically Help is the last page our team developed for the best User Interface UI smooth Operations.
 
- <- - - - - - -  - - - - - - - - - - - - - -Links and Acclaim - - - - - - - - - - - - - - - - - - - - - ->
-‣ WebPage deployed link:
-Github Repo LINK: https://github.com/vis976/KindMeal.my
 
-Netlify Link: https://snazzy-gelato-ae1f7d.netlify.app/
 
 
